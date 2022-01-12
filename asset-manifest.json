@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-event-state-filter/static/css/main.25e5b7c3.css",
+    "main.js": "/ra-homework-event-state-filter/static/js/main.7eb5cefe.js",
+    "static/js/787.a1a347be.chunk.js": "/ra-homework-event-state-filter/static/js/787.a1a347be.chunk.js",
+    "index.html": "/ra-homework-event-state-filter/index.html",
+    "main.25e5b7c3.css.map": "/ra-homework-event-state-filter/static/css/main.25e5b7c3.css.map",
+    "main.7eb5cefe.js.map": "/ra-homework-event-state-filter/static/js/main.7eb5cefe.js.map",
+    "787.a1a347be.chunk.js.map": "/ra-homework-event-state-filter/static/js/787.a1a347be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e5b7c3.css",
+    "static/js/main.7eb5cefe.js"
+  ]
+}
